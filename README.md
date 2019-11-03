@@ -6,7 +6,7 @@ Timer
 
 
 
-![页面](/src/assets/images/1.png)
+![images](https://github.com/moximoxi233/timer/blob/master/src/assets/images/1.png)
 
 timer按钮【计时器】
 
