@@ -10,20 +10,20 @@ Timer
 
 timer按钮【计时器】
 
-![](/src/assets/images/2.png)
+![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/2.png)
 
 setTimer按钮【定时器】
 
-![](F:\my_proj\timer\src\assets\images\3.png)
+![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/3.png)
 
-![](F:\my_proj\timer\src\assets\images\4.png)
+![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/4.png)
 
 complate按钮【查看所用的时间】
 
-![](F:\my_proj\timer\src\assets\images\5.png)
+![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/5.png)
 
-![](F:\my_proj\timer\src\assets\images\6.png)
+![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/6.png)
 
 可以更改标题栏
 
-![](F:\my_proj\timer\src\assets\images\7.png)
+![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/7.png)
