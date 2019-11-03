@@ -2,7 +2,7 @@
   <div >
     <p class="info">
       <button class="btn" v-if="flag" @click="format">点击查看今日学习时间</button>
-      <span class="result"  v-else>今天一共学习了{{tatalTime}}小时^-^</span>
+      <span class="result"  v-else>:)今天一共学习了{{tatalTime}}小时^-^</span>
     </p>
     <!--<p class="info" v-else></p>-->
   </div>
