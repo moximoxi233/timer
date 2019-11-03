@@ -6,24 +6,24 @@ Timer
 
 
 
-![images](https://github.com/moximoxi233/timer/blob/master/src/assets/images/1.png)
+![images](https://github.com/moximoxi233/timer/blob/master/images/1.png)
 
 timer按钮【计时器】
 
-![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/2.png)
+![](https://github.com/moximoxi233/timer/blob/master/images/2.png)
 
 setTimer按钮【定时器】
 
-![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/3.png)
+![](https://github.com/moximoxi233/timer/blob/master/images/3.png)
 
-![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/4.png)
+![](https://github.com/moximoxi233/timer/blob/master/images/4.png)
 
 complate按钮【查看所用的时间】
 
-![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/5.png)
+![](https://github.com/moximoxi233/timer/blob/master/images/5.png)
 
-![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/6.png)
+![](https://github.com/moximoxi233/timer/blob/master/images/6.png)
 
 可以更改标题栏
 
-![](https://github.com/moximoxi233/timer/blob/master/src/assets/images/7.png)
+![](https://github.com/moximoxi233/timer/blob/master/images/7.png)
